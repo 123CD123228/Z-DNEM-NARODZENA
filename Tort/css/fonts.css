@@ -1,0 +1,18 @@
+
+
+
+@font-face { 
+    font-family: 'GruntGrotesk-light'; 
+    src: url('../fonts/GruntGrotesk-Light.woff2') format('woff2'); 
+    font-weight: 300; /* light */
+    font-style: normal; 
+    font-display: swap;
+}
+
+@font-face { 
+    font-family: 'GruntGrotesk-bold'; 
+    src: url('../fonts/GruntGrotesk-Bold.woff2') format('woff2'); 
+    font-weight: 700; /* bold */
+    font-style: normal; 
+    font-display: swap;
+}
